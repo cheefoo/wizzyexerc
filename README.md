@@ -1,6 +1,8 @@
 # wizzyexerc
 
  
+ ## Architecture 
+ ![alt text](https://github.com/cheefoo/wizzyexerc/blob/main/wiz-tayo.png)
 
  ### 1. MongoDB 
  Deployed on EC2 instance via a terraform script and a ec2 user data injected at instance creation time.
